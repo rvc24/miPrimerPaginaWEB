@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300;400;500;600;700 & display=swap');
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 1200;
+    margin: 0 auto;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #110702;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.menu .navar ul li {
+    position: relative;
+    float: left;
+}
+
+.menu .navar ul li a {
+    font-size: 18px;
+    padding: 20px;
+    color: black;
+    display: block;
+    font-weight: 600;
+}
+
+#menu {
+    display: none;
+}
+
+.menu-icono {
+    width: 25px;
+}
+
+.menu label{
+    cursor: pointer;
+    display: none;
+}
+
+.header-content {
+    text-align: center;
+}
+
+.header-content h1 {
+    font-size: 75px;
+    line-height: 80px;
+    color: black;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+
+.header-content p {
+    font-size: 16px;
+    color: #000;
+    padding: 0 250px;
+    margin-bottom: 25px;
+}
+
+.btn-1 {
+    display: inline-block;
+    padding: 11px 35px;
+    background-color: black;
+    color: black;
+    text-transform: uppercase;
+}
+.btn-1:hover {
+    background-color: black;
+}
+
+.contenedor {
+    display: flex;
+}
+.Valkiria-1 {
+    padding: 25px;
+}
+.Valkiria-1 img {
+    width: 200px;
+}
+
+.Vakiria-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.Valkiria-2 {
+    padding: 25px;
+}
+.Valkiria-2 img {
+    width: 200px;
+}
+
+.Valkiria-3 {
+    padding: 25px;
+}
+.Valkiria-3 img {
+    width: 200px;
+}
+
+.Valkiria-4 {
+    padding: 25px;
+}
+.Valkiria-4 img {
+    width: 200px;
+}
+
+.Valkiria-5 {
+    padding: 25px;
+}
+.Valkiria-5 img {
+    width: 200px;
+}
+
+.contenedor {
+    display: flex;
+}
+.hermandad {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: 0;
+    align-items: center;
+    justify-content: space-between;
+}
